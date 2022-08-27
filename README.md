@@ -7,4 +7,6 @@ It is an  online code  editor that compiles your code live with HTML/CSS/JS.
 - perfectly compile htnl, css , js code
 - Clean code
 
+# [Demo](https://rishikavishnoi.github.io/LiveCodeEditor/)
 ![Screenshot](screenshot.png)
+
