@@ -4,7 +4,7 @@ It is an  online code  editor that compiles your code live with HTML/CSS/JS.
 ## Feature 
 - Responsive 
 - well structured layout
-- perfectly compile htnl, css , js code
+- perfectly compile html, css , js code
 - Clean code
 
 # [Demo](https://rishikavishnoi.github.io/LiveCodeEditor/)
